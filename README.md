@@ -87,36 +87,39 @@
 
 ```javascript
 const developer = {
-    name: "S M Samiul Hasan",
-    title: "Junior Web Developer",
-    location: "Rangpur, Bangladesh",
-    education: "Diploma in Engineering (Ongoing)",
-    availability: "Open for Projects / Remote Work",
-    skills: {
-        frontend: [
-            "HTML5", "CSS3", "Tailwind CSS", "JavaScript (ES6+)", 
-            "Bootstrap", "React.js", "Next.js", "Framer Motion"
-        ],
-        authentication: [
-            "Firebase Auth", "JWT", "OAuth2", "Next-auth"
-        ],
-        backend: [
-            "Python", "Node.js", "Express.js", "PHP", "Uvicorn"
-        ],
-        database: [
-            "Firebase Realtime DB", "MySQL", "MongoDB", "PostgreSQL"
-        ],
-        tools: [
-            "Git & GitHub", "VS Code", "PyCharm", "Postman", "Figma"
-        ]
-    },
-    softSkills: [
-        "Problem Solving", "Adaptability", "Time Management", 
-        "Self-Learning", "Team Collaboration"
-    ],
-    motivation: () => {
-        return "Building solutions that make life easier for my family and clients.";
-    }
+  name: " S M Samiul Hasan ",
+  title: "Junior Web Developer",
+  location: "Rangpur,Bangladesh",
+  education: "Diploma in Engineering (Ongoing)",
+  availability: "Open for Projects / Remote Work",
+  skills: {
+    frontend: ["HTML5", "CSS3", "Tailwind CSS", "JavaScript (ES6+)", 
+      "Bootstrap", "React.js", "Next.js", "Framer Motion"],
+    authentication: ["Firebase Auth", "JWT", "OAuth2", "Next-auth", "Better-auth"],
+    backend: ["Python", "Node.js", "Express.js", "PHP", "Uvicorn"],
+    api: ["RESTful API", "FastAPI", "GraphQL", "Axios", "TanStack Query"],
+    database: ["Firebase Realtime DB", "MySQL", "MongoDB", "PostgreSQL"],
+    devOps_deployment: ["Vps", "Netlify", "Vercel", "Heroku", "Render", 
+    "cPanel", "hPanel"," Cloudflare", "GitHub Actions", "Docker (Basics)"],
+    tools: ["Git & GitHub", "VS Code Insiders", "PyCharm","Postman", "Figma", "Canva"],
+    cli: ["npm", "npx", "yarn", "pnpm", "pip", "pipenv"],
+    ai_assistance: ["ChatGPT", "Gemini", "Deepseek", "GitHub Copilot"],
+  },
+  softSkills: [
+    "Problem Solving",
+    "Adaptability",
+    "Time Management",
+    "Self-Learning",
+    "Team Collaboration"
+  ],
+  languages: [
+    { name: "Bengali", proficiency: "Native" },
+    { name: "English", proficiency: "Professional Working" }
+  ],
+  motivation: () => {
+    return `Building solutions that make life easier 
+    for my family and clients`;
+  }
 };
 
 console.log("Let's build something great together!");
