@@ -35,7 +35,21 @@
 
 ## ⚡ About Me
 
-> I am a passionate **Web Developer** focused on building clean, responsive, and user-friendly web applications. Alongside my Diploma studies, I continuously sharpen my skills through real-world projects and structured learning. I believe in strong fundamentals, consistency, and creating technology that solves real problems.
+> Hi, I’m S M Samiul Hasan. I turn ideas into high-performance, scalable custom web apps.
+
+I specialize in:
+• Frontend: Next.js, React, Tailwind (Pixel-perfect, Responsive UI)
+• Backend: Python (FastAPI), Node.js, Express (Secure APIs)
+• Data/Cloud: MySQL,MongoDB, PostgreSQL, Firebase, VPS Deployment
+
+I handle the full lifecycle, from Authentication to Deployment. My goal is to write clean code that makes your life easier.
+
+Why Me?
+• Modern Tech Stack Expert
+• Creative Problem Solver
+• Fast & Reliable Delivery
+
+Ready to bring your vision to life? Let’s build something great together!
 
 ---
 
