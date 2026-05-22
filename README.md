@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=S%20M%20Samiul%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20App%20Developer&descAlignY=55&descSize=20" width="100%"/>
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3380F9&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+App+Developer;Next.js+%7C+Node.js+%7C+Flutter;B2B+Platform+Builder+(EZBid.cloud);Web+Scraping+%26+Automation;VPS+%26+Cloud+Deployment;Programming+Hero+Batch+12+Alumni" alt="Typing SVG" />
   </a>
@@ -198,11 +194,6 @@ console.log("Let's build something great together! 🚀");
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smsamiulhasansaim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsamiulhasansaim&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smsamiulhasansaim&theme=tokyonight" alt="GitHub Streak" />
