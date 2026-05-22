@@ -187,9 +187,9 @@ console.log("Let's build something great together! 🚀");
 |--------|-------------|-------|
 | **[EZBid.cloud](https://ezbid.cloud)** | B2B e-procurement platform with live bidding, RFQ automation & vendor tracking | Next.js, Node.js, MongoDB, SSLCommerz |
 | **[Jamibd](https://jamibd.com)** | AI-powered corporate e-commerce with real-time recommendations | React, Node.js, MongoDB, AI Integration |
-| **eTuitionBD** | Smart tuition platform connecting students & tutors | React, Tailwind, Node.js, REST API |
-| **ToyTopia** | Niche marketplace SPA with CRUD & Firebase auth | React, Firebase, MongoDB, Express |
-| **Career Hub** | Job portal with Recharts analytics & dynamic routing | React, React Router, Recharts |
+| **[eTuitionBD](https://etuitionbd-client.pages.dev)** | Smart tuition platform connecting students & tutors | React, Tailwind, Node.js, REST API |
+| **[ToyTopia](https://toytopia-95580.web.app)** | Niche marketplace SPA with CRUD & Firebase auth | React, Firebase, MongoDB, Express |
+| **[Career Hub](https://assgn-8smsamiul.surge.sh)** | Job portal with Recharts analytics & dynamic routing | React, React Router, Recharts |
 
 ---
 
@@ -204,13 +204,13 @@ console.log("Let's build something great together! 🚀");
 ## 🎓 Learning Journey
 
 ```
-2024–2025  →  Complete Web Development Level-1       @ Programming Hero (MERN Stack)
+2025–2026  →  Complete Web Development Level-1       @ Programming Hero (MERN Stack)
 2024–2028  →  Diploma in Computer Engineering         @ Polytechnic Institute (Ongoing)
-2025–2026  →  Next Level AI-Driven Software Eng. L-2  @ Programming Hero (Ongoing)
+2026–2027  →  Next Level AI-Driven Software Eng. L-2  @ Programming Hero (Ongoing)
                └── PostgreSQL, Prisma, Docker, Nginx, Golang, Next.js Advanced
 2024–2025  →  Frontend Web Design                     @ Inspired IT Institute, Rangpur
 ```
-
+..
 ---
 
 ## 📫 Let's Collaborate
