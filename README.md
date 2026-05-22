@@ -190,7 +190,7 @@ console.log("Let's build something great together! 🚀");
 | Project | Description | Stack |
 |--------|-------------|-------|
 | **[EZBid.cloud](https://ezbid.cloud)** | B2B e-procurement platform with live bidding, RFQ automation & vendor tracking | Next.js, Node.js, MongoDB, SSLCommerz |
-| **Jamibd** | AI-powered corporate e-commerce with real-time recommendations | React, Node.js, MongoDB, AI Integration |
+| **[Jamibd](https://jamibd.com)** | AI-powered corporate e-commerce with real-time recommendations | React, Node.js, MongoDB, AI Integration |
 | **eTuitionBD** | Smart tuition platform connecting students & tutors | React, Tailwind, Node.js, REST API |
 | **ToyTopia** | Niche marketplace SPA with CRUD & Firebase auth | React, Firebase, MongoDB, Express |
 | **Career Hub** | Job portal with Recharts analytics & dynamic routing | React, React Router, Recharts |
@@ -228,10 +228,10 @@ I'm available for **freelance projects**, **remote work**, and **consulting enga
 
 <div align="center">
 
-[![Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/smsamiulhasan)
-[![Fiverr](https://img.shields.io/badge/Order%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/smsamiulhasan)
+[![Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015acb5478e40b266a?mp_source=share)
+[![Fiverr](https://img.shields.io/badge/Order%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/DBpxymX)
 [![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.smsamiulhasan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samiul.dev)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samiul.jamibd.com)
 
 </div>
 
